@@ -1,6 +1,11 @@
 # SpectraOS Roadmap
 ## Technical Architecture & Implementation Plan
 
+<img width="930" height="904" alt="image" src="https://github.com/user-attachments/assets/9436e04f-f329-4aa6-a36d-86072018db59" />
+
+<img width="930" height="904" alt="image" src="https://github.com/user-attachments/assets/d2f35785-d6ea-4bea-88ee-dc1481fc991d" />
+
+
 **Version:** 2.0 Proposal  
 **Current Status:** Phase 1 Complete (Core Unikernel with Basic Trading)  
 **Target:** Production-Grade Trading Operating System  
